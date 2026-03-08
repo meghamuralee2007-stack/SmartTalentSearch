@@ -1,4 +1,4 @@
-SmartTalent AI – Semantic Resume Ranking Engine
+secSmartTalent AI – Semantic Resume Ranking Engine
 
 Project Title
 
@@ -332,7 +332,7 @@ Live Demo (Optional)
 
 Example:
 
-https://talent-ranker--meghamuralee200.replit.app
+https://drive.google.com/drive/folders/1f48XdxfHhdHMVudiCxBQsePIK86W97VFhttps://drive.google.com/drive/folders/1f48XdxfHhdHMVudiCxBQsePIK86W97VF
 
 
 ---
